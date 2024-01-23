@@ -1,0 +1,5 @@
+{
+    "maxSize": 1000000,
+    "timeStampFormat": "MM-DD-YYYY HH:mm:ss",
+    "dir": "./"
+}
