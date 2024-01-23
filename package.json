@@ -15,7 +15,7 @@
     "@wdio/spec-reporter": "^8.28.8",
     "chai": "^4.3.6",
     "chromedriver": "^120.0.2",
-    "wdio-chromedriver-service": "^7.2.8",
+    "wdio-chromedriver-service": "^8.1.1",
     "winston": "^3.11.0"
   }
 }
